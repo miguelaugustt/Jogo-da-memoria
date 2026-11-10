@@ -1,0 +1,15 @@
+.cardsMemoria {
+  width: 200px;
+  height: 200px;
+  font-size: 130px;
+  border-radius: 5px;
+  margin: 20px;
+  background-color: rgb(238, 204, 200);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body {
+  background-color: black;
+}
